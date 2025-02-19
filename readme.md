@@ -1,4 +1,9 @@
-# next-lightbox 📷✨
+<p align="center">
+  <a href="#">
+    <img src="/.github/ressources/logo.png" alt="logo" width="175px">
+  </a>
+</p>
+<h2 align="center">Next.js lightbox</h2>
 
 A lightweight and extendable lightbox provider for Next.js projects, designed for seamless image viewing with smooth navigation.
 
