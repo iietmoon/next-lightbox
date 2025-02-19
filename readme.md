@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="/.github/ressources/logo.png" alt="logo" width="175px">
+    <img src="/.github/ressources/logo.png" alt="logo" width="95px">
   </a>
 </p>
 <h2 align="center">Next.js lightbox</h2>
