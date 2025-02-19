@@ -1,0 +1,27 @@
+{
+  "name": "next-lightbox",
+  "version": "1.0.0",
+  "description": "A lightweight and extendable lightbox provider for Next.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iietmoon/next-lightbox.git"
+  },
+  "keywords": [
+    "lightbox",
+    "nextjs",
+    "lightbox",
+    "image",
+    "zoom",
+    "image"
+  ],
+  "author": "Othmane N. <iietmoon>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iietmoon/next-lightbox/issues"
+  },
+  "homepage": "https://github.com/iietmoon/next-lightbox#readme"
+}
